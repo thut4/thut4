@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Thuta</h1>
 <h3 align="center">💙 Flutter Developer | Clean Code Enthusiast | UI/UX Focused</h3>
 
@@ -24,4 +25,36 @@ Languages:       Dart, JavaScript (Node.js)
 Mobile:          Flutter (Material 3, Clean Architecture, Provider)
 Backend:         Firebase (Auth, Firestore, Functions), REST APIs, Socket.IO
 Tools/Other:     Git, GitHub, Postman, VS Code, Figma
+```
 
+---
+
+## 🔧 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 **Flutter Quiz Game** | Real-time multiplayer quiz using Socket.IO | Flutter, Provider, Node.js |
+| 🍔 **Food Delivery App** | Clean UI with Firebase backend and cart system | Flutter, Firebase, Provider |
+| 💬 **ChatGPT App** | Chat UI powered by Gemini API | Flutter, Gemini API, Provider |
+| 🧾 **POS App** | Simple Point of Sale app for retail with receipt printing | Flutter, Firebase, Provider |
+
+➡️ See more in my [Repositories »](https://github.com/thut4?tab=repositories)
+
+---
+
+## 📲 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thutaag98/)
+- 📧 htta2017@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thut4&show_icons=true&theme=tokyonight" alt="thut4" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thut4&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thut4&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
